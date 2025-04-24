@@ -1,9 +1,9 @@
 # node modules
-web-backend/node_modules
-web-backend/uploads
+backend/node_modules
+backend/uploads
 
 # dotenv
-web-backend/.env
+backend/.env
 
 # IDE / OS
 .DS_Store
